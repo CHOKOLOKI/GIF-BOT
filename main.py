@@ -39,3 +39,15 @@ async def gif(ctx,*,q="random"):
 
 keep_awake()
 client.run(os.environ['blessings'])
+
+
+#           88                                          
+#           ""                        ,d                
+#                                     88                
+# ,adPPYba, 88  ,adPPYba, ,adPPYba, MM88MMM ,adPPYYba,  
+# I8[    "" 88 a8P_____88 I8[    ""   88    ""     `Y8  
+#  `"Y8ba,  88 8PP"""""""  `"Y8ba,    88    ,adPPPPP88  
+# aa    ]8I 88 "8b,   ,aa aa    ]8I   88,   88,    ,88  
+# `"YbbdP"' 88  `"Ybbd8"' `"YbbdP"'   "Y888 `"8bbdP"Y8  
+
+
