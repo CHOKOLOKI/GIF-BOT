@@ -17,6 +17,14 @@ async def on_ready():
 async def siesta(ctx):
   await ctx.channel.send(f"Hi! {ctx.author.mention} it's great to see you")
 
+@client.command()
+async def whitey(ctx):
+  await ctx.channel.send(f'Hey {ctx.author.mention}! Whiteyntyn migo? WAHAHHAHAHAH \n \n	ԅ(≖‿≖ԅ)')
+
+@client.command()
+async def sus(ctx):
+  await ctx.channel.send(f'That was suspicious! \n \n (•_•) ( •_•)>⌐■-■ (⌐■_■)')
+
 
 @client.command()
 async def helpme(ctx):
