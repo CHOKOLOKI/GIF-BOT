@@ -23,7 +23,7 @@ async def whitey(ctx):
 
 @client.command()
 async def sus(ctx):
-  await ctx.channel.send(f'That was suspicious! \n \n (•_•) ( •_•)>⌐■-■ (⌐■_■)')
+  await ctx.channel.send(f'That was suspicious! \n \n (ÒДÓױ)')
 
 @client.command()
 async def ahh(ctx):
